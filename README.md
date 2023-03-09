@@ -1,4 +1,4 @@
-<p align="center"><img alt="Laravel 9" border="0" data-original-height="420" data-original-width="1000" height="269" src="https://www.eurotechconseil.com/wp-content/uploads/2022/06/OWASP.webp" width="800"></p>
+<p align="center"><img alt="Laravel 9" border="0" data-original-height="420" data-original-width="1000" height="269" src="https://3.bp.blogspot.com/-gGoAVGD0qu8/XHRyhVAG_NI/AAAAAAAADYg/6lijW4uQeeEMTAtuz7msjVeO4ohj2SB4gCLcBGAs/s1600/image1.gif" width="800"></p>
 
 <p align="center">
     <a href="https://packagist.org/packages/monish-khatri/security-headers">
