@@ -1,0 +1,34 @@
+{
+    "name": "monish-khatri/fcm-push-notification",
+    "description": "Attach OWASP security related headers to HTTP response.",
+    "type": "library",
+    "license": "MIT",
+    "keywords": [
+        "laravel",
+        "push-notification",
+        "firebase",
+        "fcm"
+    ],
+    "autoload": {
+        "psr-4": {
+            "MonishKhatri\\FCMService\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Monish Khatri",
+            "email": "khatrimk10@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": "^8.0.2"
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "MonishKhatri\\FCM\\FCMServiceServiceProvider"
+            ]
+        }
+    }
+}
