@@ -1,6 +1,6 @@
 {
     "name": "monish-khatri/fcm-push-notification",
-    "description": "Attach OWASP security related headers to HTTP response.",
+    "description": "Send Push notification to Android & IOS using fcm",
     "type": "library",
     "license": "MIT",
     "keywords": [
@@ -11,7 +11,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "MonishKhatri\\FCMService\\": "src/"
+            "MonishKhatri\\FCM\\": "src/"
         }
     },
     "authors": [
@@ -27,7 +27,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "MonishKhatri\\FCM\\FCMServiceServiceProvider"
+                "MonishKhatri\\FCM\\FCMServiceProvider"
             ]
         }
     }
