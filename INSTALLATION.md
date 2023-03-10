@@ -25,7 +25,7 @@
     ```
     use MonishKhatri\FCM\Service\FCMService;
     FCMService::send(
-        <DEVICE_FCM_TOKEN>,
+        [<DEVICE_FCM_TOKEN_1>,<DEVICE_FCM_TOKEN_2>,... ],
         [
             'title' => 'your title',
             'body' => 'your body',
