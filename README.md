@@ -25,7 +25,7 @@ In order to ensure that the Laravel community is welcoming to all, please review
 
 ## Installation guide
 
-You can setup the Security Headers by following given steps in [Installation guide](INSTALLATION.md).
+You can setup the Push Notification by following given steps in [Installation guide](INSTALLATION.md).
 
 ## Contributing
 Pull requests and feedback are very welcome :)
