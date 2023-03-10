@@ -29,7 +29,7 @@
         [
             'title' => 'your title',
             'body' => 'your body',
-            'image' => 'image_url',
+            'image' => 'image_url', // Optional
         ]
     );
     ```
