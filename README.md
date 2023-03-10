@@ -34,3 +34,6 @@ on GitHub at https://github.com/monish-khatri/fcm-push-notification
 ## License
 
 Laravel FCM Push Notification is open-sourced software licensed under the [MIT license](LICENSE.md).
+
+## Support
+<p><a href="https://www.buymeacoffee.com/monishkhatri"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="monishkhatri" /></a></p><br><br>
