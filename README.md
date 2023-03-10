@@ -1,16 +1,16 @@
 <p align="center"><img alt="Laravel 9" border="0" data-original-height="420" data-original-width="1000" height="269" src="https://3.bp.blogspot.com/-gGoAVGD0qu8/XHRyhVAG_NI/AAAAAAAADYg/6lijW4uQeeEMTAtuz7msjVeO4ohj2SB4gCLcBGAs/s1600/image1.gif" width="800"></p>
 <p align="center">
-    <a href="https://packagist.org/packages/monish-khatri/security-headers">
-        <img src="https://img.shields.io/packagist/dt/monish-khatri/security-headers" alt="Total Downloads">
+    <a href="https://packagist.org/packages/monish-khatri/fcm-push-notifications">
+        <img src="https://img.shields.io/packagist/dt/monish-khatri/fcm-push-notification" alt="Total Downloads">
     </a>
-    <a href="https://packagist.org/packages/monish-khatri/security-headers">
-        <img src="https://img.shields.io/packagist/v/monish-khatri/security-headers" alt="Latest Stable Version">
+    <a href="https://packagist.org/packages/monish-khatri/fcm-push-notification">
+        <img src="https://img.shields.io/packagist/v/monish-khatri/fcm-push-notification" alt="Latest Stable Version">
     </a>
-    <a href="https://packagist.org/packages/monish-khatri/security-headers">
-        <img src="https://img.shields.io/packagist/l/monish-khatri/security-headers" alt="License">
+    <a href="https://packagist.org/packages/monish-khatri/fcm-push-notification">
+        <img src="https://img.shields.io/packagist/l/monish-khatri/fcm-push-notification" alt="License">
     </a>
-    <a href="https://packagist.org/packages/monish-khatri/security-headers">
-        <img src="https://img.shields.io/packagist/stars/monish-khatri/security-headers" alt="License">
+    <a href="https://packagist.org/packages/monish-khatri/fcm-push-notification">
+        <img src="https://img.shields.io/packagist/stars/monish-khatri/fcm-push-notification" alt="License">
     </a>
 </p>
 
