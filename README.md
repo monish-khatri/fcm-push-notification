@@ -16,7 +16,7 @@
 
 ## Introduction
 
-Package provides a minimal and simple integration to send push notification to Android & ISO Device in Laravel application.
+Package provides a minimal and simple integration to send push notification to Android & IOS Device in Laravel application.
 
 ## Code of Conduct
 
