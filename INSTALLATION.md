@@ -23,7 +23,7 @@
 - You can send Notification Simply with below code:
     -
     ```
-    use MonishKhatri\FCM\Service\FCMService;
+    use MonishKhatri\FCM\FCMService;
     FCMService::send(
         [<DEVICE_FCM_TOKEN_1>,<DEVICE_FCM_TOKEN_2>,... ],
         [
