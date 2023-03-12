@@ -28,7 +28,7 @@ class FCMServiceProvider extends ServiceProvider
     {
         // Merge and publish config file
         $this->publishes([
-            __DIR__ . '/../stubs/config/fcm.php' => config_path('fcm.php'),
+            __DIR__ . '/../stubs/config/push_notification.php' => config_path('push_notification.php'),
         ], 'config');
 
         $this->registerPolicies();

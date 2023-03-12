@@ -24,7 +24,7 @@ class FCMService
     public function send(): void
     {
         Http::acceptJson()
-            ->withToken(config('fcm.token'))
+            ->withToken(config('push_notification.token'))
             ->post(
                 'https://fcm.googleapis.com/fcm/send',
                 [
