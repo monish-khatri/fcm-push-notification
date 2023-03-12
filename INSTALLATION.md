@@ -24,12 +24,17 @@
     -
     ```
     use MonishKhatri\FCM\FCMService;
-    FCMService::send(
-        [<DEVICE_FCM_TOKEN_1>,<DEVICE_FCM_TOKEN_2>,... ],
-        [
-            'title' => 'your title',
-            'body' => 'your body',
-            'image' => 'image_url', // Optional
-        ]
-    );
+    $pushNotification = new FCMService();
+    $pushNotification->setDeviceTokens([<DEVICE_FCM_TOKEN_1>,<DEVICE_FCM_TOKEN_2>,... ])
+        ->setTitle('notification title')
+        ->setBody('notification body')
+        ->setColor('color')
+        ->setData('key', 'value') // default null
+        ->setIcon('icon_url')
+        ->setImage('image_url')
+        ->setNotificationType('notification type')
+        ->setSound('default') // default
+        ->setVibrate() // default false
+        ->setVibration() // default 300
+        ->send();
     ```
