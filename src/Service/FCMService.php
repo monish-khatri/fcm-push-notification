@@ -73,6 +73,17 @@ class FCMService
     }
 
     /**
+     * Set data
+     */
+    public function setDataAsArray(array $data): object
+    {
+        foreach ($data as $key => $value) {
+            $this->data[$key] = $value;
+        }
+        return $this;
+    }
+
+    /**
      * Set Device Tokens
      */
     public function setDeviceTokens(array $deviceTokens): object
